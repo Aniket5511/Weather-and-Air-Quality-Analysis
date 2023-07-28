@@ -5,7 +5,7 @@
 The goal of this project is to perform Weather-and-Air-Quality data analytics on data using various tools and technologies
 
 ## Architecture 
-<img src="architecture.jpg">
+<img src="Data Flow.png">
 
 ## Technology Used
 Data Buffer: Confluent Kafka - 
